@@ -11,3 +11,5 @@ Math.ceil()
 Math.floor()
 
 console.log('Hello');
+
+let name = 'hi'
